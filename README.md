@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](armanhatami.aut@gmail.com)
 [![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/armanhtm)
 
-- 💻 I’m currently studing computer engineering at [Amirkabir University of Tech](aut.ac.ir). Check it out if interested.
+- 💻 I’m currently studying Electrical and computer engineering as a PhD student at [Johns Hopkins University](https://www.jhu.edu/). Check it out if interested.
 - 📫 How to reach me: armanhatami.aut@gmail.com
 
 <div>
